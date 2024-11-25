@@ -1,5 +1,5 @@
 # go-UUID
-CLI to generate UUID
+CLI to generate UUID (based on [gofrs/uuid](https://github.com/gofrs/uuid))
 
 ## Go Build
 
